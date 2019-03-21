@@ -15,10 +15,10 @@ namespace WriteWork
     public partial class Form4 : Form
     {
         public string localPath;
-        public const int APP_ID = 1252834524;
+        public const int APP_ID = xxxxxx;
         public string ImgUrl;
-        const string SECRET_ID = "AKIDJZmU8bCzypVL2dvLuNqRfCpMk1Ma25e7";
-        const string SECRET_KEY = "d6PvdAiqtnX9ihgspgPXZS9eBZow0xmQ";
+        const string SECRET_ID = "xxxxxxxxxxxxx";
+        const string SECRET_KEY = "xxxxxxxxxxxxxxxx";
         public string url;
 
         const string bucketName = "bucket1";
